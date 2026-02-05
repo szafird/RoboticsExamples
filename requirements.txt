@@ -4,3 +4,4 @@ sympy>=1.11
 ipywidgets>=8.0
 jupyterlab>=3.6
 jupyterlab_widgets>=3.0
+plotly
