@@ -3,11 +3,16 @@
 This repo contains interactive Jupyter notebooks for teaching **2D and 3D forward kinematics**.
 
 ## Contents
+- `Linear_Algebra_for_Kinematics.ipynb` — interactive linear algebra refresher
 - `Forward_Kinematics_Interactive.ipynb` — interactive 2D FK visualizations
 - `FK_3D_Interactive.ipynb` — interactive 3D FK visualizations (Plotly + ipywidgets)
 - `requirements.txt` — dependencies for Binder
 
 ## Launch on Binder
+```
+https://mybinder.org/v2/gh/szafird/RoboticsExamples/HEAD?labpath=Linear_Algebra_for_Kinematics.ipynb
+```
+
 ```
 https://mybinder.org/v2/gh/szafird/RoboticsExamples/HEAD?labpath=Forward_Kinematics_Interactive.ipynb
 ```
