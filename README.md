@@ -12,6 +12,8 @@ This repo contains interactive Jupyter notebooks for teaching **2D and 3D forwar
 
 ## Launch on Binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/szafird/RoboticsExamples/HEAD?labpath=COMP581_Linear_Algebra_DD_FK.ipynb)   
+
 ```
 https://mybinder.org/v2/gh/szafird/RoboticsExamples/HEAD?labpath=COMP581_Linear_Algebra_DD_FK.ipynb
 ```
